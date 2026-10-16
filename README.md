@@ -53,13 +53,17 @@ The analysis was performed using **PostgreSQL** and **pgAdmin**.
 
 ## Project Structure
 
-Olist_SQL_Project/
+SQL-BI_Project_01/
 ├── 01_IMPORTING_DATASETS.sql
 ├── 02_Data_Quality.sql
 ├── 03_Core_Insights.sql
 ├── 04_CREATING_VIEWS.sql
 ├── 05_Final_Analysis.sql
 ├── 06_Project_Summary.md
+├── Olist_Dashboard.pbix
+├── dashboard_executive_overview.png
+├── dashboard_sales_delivery.png
+├── dashboard_geography_freight.png
 └── README.md
 
 
@@ -72,14 +76,16 @@ An interactive dashboard was created in Power BI using the Olist dataset connect
 - **Sales & Delivery** – Delivery Performance, Review Impact, Payment Analysis
 - **Geography & Freight** – Customer & Seller Distribution, Freight Analysis
 
-### Dashboard Screenshots:
+### Dashboard Screenshots
 
-![Executive Overview](<img width="1328" height="746" alt="dashboard_executive_overview" src="https://github.com/user-attachments/assets/20ed4587-917c-464e-a651-6784097d72b2" />
-)
-![Sales & Delivery](<img width="1327" height="743" alt="dashboard_sales_delivery" src="https://github.com/user-attachments/assets/2db09064-dd9a-49cc-ad5b-0445240e95bf" />
-)
-![Geography & Freight](<img width="1325" height="745" alt="dashboard_geography_freight" src="https://github.com/user-attachments/assets/68538804-b479-40a3-affa-bec70c70f8b6" />
-)
+**Executive Overview**  
+![Executive Overview](dashboard_executive_overview.png)
+
+**Sales & Delivery**  
+![Sales & Delivery](dashboard_sales_delivery.png)
+
+**Geography & Freight**  
+![Geography & Freight](dashboard_geography_freight.png)
 
 
 ----------------
