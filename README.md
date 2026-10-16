@@ -63,21 +63,6 @@ Olist_SQL_Project/
 ├── 06_Project_Summary.md
 └── README.md
 
-## Power BI Dashboard
-
-An interactive dashboard was created in Power BI using the Olist dataset connected directly to PostgreSQL.
-
-### Dashboard Pages:
-- **Executive Overview** – Key KPIs, Top Categories, Monthly Revenue Trend
-- **Sales & Delivery** – Delivery Performance, Review Impact, Payment Analysis
-- **Geography & Freight** – Customer & Seller Distribution, Freight Analysis
-
-### Dashboard Screenshots:
-
-![Executive Overview](dashboard_executive_overview.png)
-![Sales & Delivery](dashboard_sales_delivery.png)
-![Geography & Freight](dashboard_geography_freight.png)
-
 ----------------
 ## Author
 Bhaskar Kashyap
